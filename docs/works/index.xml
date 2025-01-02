@@ -2,33 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Works on Kawaharu.dev</title>
-    <link>//localhost:1313/works/</link>
+    <link>https://kawaharu.dev/works/</link>
     <description>Recent content in Works on Kawaharu.dev</description>
-    <generator>Hugo -- 0.139.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kawaharu.dev/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memoapp-Overlay</title>
-      <link>//localhost:1313/works/mumoapp-overlay/</link>
+      <link>https://kawaharu.dev/works/memoapp-overlay/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/works/mumoapp-overlay/</guid>
-      <description>&lt;h2 id=&#34;memoapp-overlay-v1&#34;&gt;Memoapp-Overlay v1&lt;/h2&gt;
-&lt;p&gt;このアプリは「ゲーム中に簡単にメモが取れたらなー」という思いから作りました。&lt;br&gt;
-アプリでは完全に透明なウィンドウにNotionぽくブロックでメモができるというものです。&lt;br&gt;
-Ctrl+Alt+Vを押すことで編集モードと表示モードを切り替えます。&lt;br&gt;
-使用例としては、ウィンドウフルスクリーンのゲーム上で攻略情報を常に見ながらプレイする。&lt;br&gt;
-WEB会議中にウィンドウを分割することなくメモが取れる。&lt;br&gt;
-などを想定して作りました。&lt;br&gt;
-一応デモということで配布をします（exeファイル直貼りというやってはいけなさそうな配布の仕方ですが）&lt;br&gt;
-&lt;a href=&#34;https://drive.google.com/file/d/1jfAX-WeNWngS4Mb7X8jjTWbhnKh1TTNz/view?usp=sharing&#34;&gt;https://drive.google.com/file/d/1jfAX-WeNWngS4Mb7X8jjTWbhnKh1TTNz/view?usp=sharing&lt;/a&gt;&lt;br&gt;
-ちなみにメモ機能にはTipTapというNotion-likeなテンプレートを用いました。&lt;/p&gt;
-&lt;h2 id=&#34;memoapp-overlay-v2&#34;&gt;Memoapp-Overlay v2&lt;/h2&gt;
-&lt;p&gt;今度はここに「共有機能」を盛り込んだものにしようと考えました。
-共有はDiscordのチャットにヒントを経て、画像や動画などの資料に対してノーションライクなリッチテキストでチャットのようにメモができる機能を持たせようと考えました。
-めちゃくちゃ雑で申し訳ないのですが、一応Figmaで作ってみました。
-&lt;!-- raw HTML omitted --&gt;
-コンセプトとしては「Notion風テキストフォーマットの見易さ」×「時系列整理できるチャット」×「画像とテキストの関連が見やすいJamboard風フィールド」といった立ち位置でしょうか。&lt;/p&gt;</description>
+      <guid>https://kawaharu.dev/works/memoapp-overlay/</guid>
+      <description>&lt;h2 id=&#34;memoapp-overlay-v1&#34;&gt;Memoapp-Overlay v1&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

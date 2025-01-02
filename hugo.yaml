@@ -1,7 +1,8 @@
+baseURL: "https://kawaharu.dev/"
 canonifyurls:  false
 publishDir: "docs"
 title: Kawaharu.dev
-paginate: 5
+pagination.pagerSize: 5
 theme: PaperMod
 
 enableEmoji: true
@@ -106,3 +107,8 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
